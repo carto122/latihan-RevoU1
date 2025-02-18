@@ -4,7 +4,7 @@
 
 - [x] Mengenal Heading
 
-```
+```html
 <h1>Heading 1</h1>
 <h2>Heading 2</h2>
 <h3>Heading 3</h3>
@@ -15,27 +15,27 @@
 
 - [x] Mengenal Paragraph
 
-```
-<p> descrition paragrap </p>
+```html
+<p>descrition paragrap</p>
 ```
 
 - [x] Mengenal Table
 
-```
+```html
 <table>
-    <tr>
-        <td> - A - </td>
-        <td> - B - </td>
-    </tr>
-    <tr>
-        <td> - C - </td>
-        <td> - D - </td>
-    </tr>
+  <tr>
+    <td>- A -</td>
+    <td>- B -</td>
+  </tr>
+  <tr>
+    <td>- C -</td>
+    <td>- D -</td>
+  </tr>
 </table>
 ```
 
 - [x] Mengenal Tag Image
 
-```
-<img src="file_gambar.jpg" alt="name_file">
+```html
+<img src="file_gambar.jpg" alt="name_file" />
 ```
