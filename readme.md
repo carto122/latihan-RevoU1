@@ -1,8 +1,8 @@
 # Belajar HTML
 
-** Day 2 **
+**Day 2**
 
-[x] Mengenal Heading
+- [x] Mengenal Heading
 
 ```
 <h1>Heading 1</h1>
@@ -13,13 +13,13 @@
 <h6>Heading 6</h6>
 ```
 
-[x] Mengenal Paragraph
+- [x] Mengenal Paragraph
 
 ```
 <p> descrition paragrap </p>
 ```
 
-[x] Mengenal Table
+- [x] Mengenal Table
 
 ```
 <table>
@@ -32,4 +32,10 @@
         <td> - D - </td>
     </tr>
 </table>
+```
+
+- [x] Mengenal Tag Image
+
+```
+<img src="file_gambar.jpg" alt="name_file">
 ```
